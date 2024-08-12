@@ -8,7 +8,7 @@ Prefer not to use var
 because of issue in block scope and functional scope
 */
 
-accountCity = "Jaipur"
+accountCity = "Ghaziabad"
 
 let accountState;
 
@@ -16,7 +16,7 @@ let accountState;
 
 accountEmail = "ag@goole.com"
 accountPassword = "21212121"
-accountCity = "Bengaluru"
+accountCity = "Gurugram"
 
 console.log(accountId);
 
